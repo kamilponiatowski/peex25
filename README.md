@@ -54,9 +54,8 @@ The production setup uses Critical CSS extraction and PurgeCSS to reduce render-
 
 ## Conclusion
 These projects collectively validate expertise in:
-
--React ecosystems (Hooks, Context, Redux) \n
--CSS architecture (BEM, Grid, SASS) \n
--Build optimization (Webpack, Tree-shaking) \n
--Full-stack practices (API integration, SSR) \n
--Accessibility & performance (ARIA, Lighthouse) \n
+- React ecosystems (Hooks, Context, Redux)
+- CSS architecture (BEM, Grid, SASS)
+- Build optimization (Webpack, Tree-shaking)
+- Full-stack practices (API integration, SSR)
+- Accessibility & performance (ARIA, Lighthouse)
